@@ -24,5 +24,12 @@ This system integrates **biometric authentication** with **IoT-based hardware co
 - 5V Relay Module  
 - Solenoid Lock  
 - Jumper Wires  
-- Mobile Phone with Fingerprint App  
+- Mobile Phone with Fingerprint App
+
+## What I Learned
+- Basics of interfacing hardware with Arduino
+- Working with Bluetooth modules (HC-05)
+- Writing serial communication logic in Arduino
+- Using fingerprint app integration with hardware
+- Building a real-world security-focused system
 
